@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">piyush</string>
+    <string name="UserName">UserName</string>
+    <string name="ContactNumber">ContactNumber</string>
+    <string name="AdharNumber">AdharNumber</string>
+    <string name="EmailAddress">EmailAddress</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">ConfrimPassword</string>
+    <string name="Register">REGISTER</string>
+
+    <string name="invalid_UserName">Please enter a valid Name</string>
+    <string name="invalid_ContactNumber">Please enter a valid ContactNumber</string>
+    <string name="invalid_AdharNumber">Please enter a valid AdharNumber</string>
+    <string name="invalid_EmailAddress">Please enter a valid EmailAddress</string>
+    <string name="invalid_Password">Please enter a Password with more than 7 characters</string>
+    <string name="invalid_ConfirmPassword">Password does not match </string>
+</resources>
